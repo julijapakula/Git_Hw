@@ -1,4 +1,12 @@
-Summary
+Bug 1
+Summary 
+Steps to reproduce
+Ecpected result
+Actual result
+Some pictures and video
+
+Bug 2
+Summary 
 Steps to reproduce
 Ecpected result
 Actual result
